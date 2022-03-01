@@ -84,3 +84,6 @@ p = "Summer is a great time to go outside. You have to be careful of the sun tho
 low_d = {}
 for char in p.lower():
     low_d[char] = low_d.get(char, 0) + 1
+
+    
+    
